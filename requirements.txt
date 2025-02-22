@@ -2,4 +2,3 @@ streamlit
 pandas
 fpdf
 ibm-watsonx-ai
-json
