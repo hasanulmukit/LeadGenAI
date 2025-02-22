@@ -1,0 +1,6 @@
+streamlit
+pandas
+fpdf
+ibm-watsonx-ai
+sqlite3
+json
