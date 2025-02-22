@@ -36,13 +36,11 @@ LeadGenAI is a Streamlit-based application that empowers users to generate leads
    pip install -r requirements.txt
    ```
    `requirements.txt` should contain the following:
-   ```
-   streamlit
-   pandas
-   fpdf
+   ```bash
+   streamlit==1.26.0
+   pandas==2.0.3
+   fpdf==1.7.2
    ibm-watsonx-ai
-   sqlite3
-   json
    ```
 
 4. **IBM Watsonx Credentials:**
