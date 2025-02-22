@@ -22,7 +22,7 @@ LeadGenAI is a Streamlit-based application that empowers users to generate leads
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/LeadGenAI.git
+   git clone https://github.com/mmfarabi/LeadGenAI.git
    ```
 
 2. **Create a Virtual Environment (Recommended):**
