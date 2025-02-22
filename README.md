@@ -62,7 +62,7 @@ LeadGenAI is a Streamlit-based application that empowers users to generate leads
 
 1. **Run the App:**
    ```bash
-   streamlit run LeadGenAI.py
+   streamlit run app.py
    ```
 
 2. **Lead Generation:**
