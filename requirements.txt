@@ -1,4 +1,4 @@
-streamlit
-pandas
-fpdf
+streamlit==1.26.0
+pandas==2.0.3
+fpdf==1.7.2
 ibm-watsonx-ai
