@@ -281,7 +281,7 @@ def main():
 
         with tab1:
             st.header("Lead Generation")
-            user_input = st.text_area("Enter your lead requirements (e.g. Finance professionals in Canada):", height=150)
+            user_input = st.text_area("Enter your lead requirements (e.g. Healthcare professionals in Canada):", height=150)
             num_leads = st.slider("Number of leads to generate (1-1000):", 1, 1000, 10)
 
             if st.button("Generate Leads"):
