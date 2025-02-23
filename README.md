@@ -1,6 +1,6 @@
 # LeadGenAI - LinkedIn Lead Generation and Business Optimization App
 
-LeadGenAI is a Streamlit-based application that empowers users to generate leads from LinkedIn and optimize their business strategies using the power of IBM Watsonx AI.  This application offers two core functionalities: lead generation based on specific criteria and AI-powered business plan generation.
+LeadGenAI is a Streamlit-based application that empowers users to generate leads from LinkedIn and optimize their business strategies using the power of IBM Granite.  This application offers two core functionalities: lead generation based on specific criteria and AI-powered business plan generation.
 
 ## Features
 
